@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.def": "cpp",
+        "ngx_config.h": "c",
+        "ngx_auto_headers.h": "c"
+    }
+}
